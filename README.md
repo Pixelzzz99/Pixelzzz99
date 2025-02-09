@@ -6,11 +6,11 @@
 
 I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that can make a difference.
 
-- 🔭 I’m currently working on [ProjectName](https://github.com/Pixelzzz99/ProjectName)
+- 🔭 I’m currently working on [ProjectName](https://github.com/Pixelzzz99/Decorify)
 - 🌱 I’m currently learning **React, Node.js, and AWS**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, and web development**
-- 📫 How to reach me: [Email](mailto:pixelzzz99@example.com)
+- 📫 How to reach me: [Email](mailto:sherzik99@gmail.com)
 - ⚡ Fun fact: I love pixel art and retro gaming!
 
 ## Skills
