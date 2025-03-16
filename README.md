@@ -6,7 +6,7 @@
 
 I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that can make a difference.
 
-- 🔭 I’m currently working on [ProjectName](https://github.com/Pixelzzz99/Decorify)
+- 🔭 I’m currently working on [Decirify](https://github.com/Pixelzzz99/Decorify), [Calendrium](https://github.com/Pixelzzz99/planner-frontend), [RB_DASHBOARDS](https://github.com/Pixelzzz99/rb_dashboards_backend)
 - 🌱 I’m currently learning **React, Node.js, and AWS**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, Python, and web development**
@@ -44,8 +44,8 @@ I'm a passionate developer with a keen interest in web development, open-source 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pixelzzz99)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/pixelzzz99)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sherzod-javliev-1b3827216/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([https://twitter.com/pixelzzz99](https://x.com/SerzodJavliev))
 
 ---
 
