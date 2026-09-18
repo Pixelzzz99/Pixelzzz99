@@ -6,7 +6,7 @@
 
 Senior Backend Engineer building payment infrastructure at scale. I work on backend systems for a major Uzbek payment platform (~8M users), with a background in fintech and banking systems. Interested in system design, distributed systems, and moving toward a tech lead / architect role.
 
-- 🔭 Currently building the **MyClick** backend and exploring [Decorify](https://github.com/Pixelzzz99/Decorify), [Calendrium](https://github.com/Pixelzzz99/planner-frontend), [RB_DASHBOARDS](https://github.com/Pixelzzz99/rb_dashboards_backend)
+- 🔭 Currently building the **MyClick** backend and working on **ETL** (Rust, ClickHouse↔PostgreSQL), **Tezhujjat**, and **sob-drift**
 - 🌱 Currently deepening **Kubernetes, system design, and Rust**
 - 👯 Looking to collaborate on **backend/fintech open-source projects**
 - 💬 Ask me about **NestJS, TypeScript, PostgreSQL, distributed systems, and payment platforms**
